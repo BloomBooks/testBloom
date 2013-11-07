@@ -2,6 +2,9 @@
 
 namespace Bloom.SendReceive
 {
+	/// <summary>
+	/// This class provides the configuration information that allows Chorus to know how to merge Bloom repositories.
+	/// </summary>
 	public class BloomChorusRules
 	{
 		public static void AddFileInfoToFolderConfiguration(ProjectFolderConfiguration config)
