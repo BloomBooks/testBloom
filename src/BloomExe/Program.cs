@@ -21,8 +21,6 @@ namespace Bloom
 {
 	static class Program
 	{
-		//static HttpListener listener = new HttpListener();
-
 		/// <summary>
 		/// We have one project open at a time, and this helps us bootstrap the project and
 		/// properly dispose of various things when the project is closed.
