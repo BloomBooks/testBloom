@@ -28,6 +28,7 @@ namespace Bloom
 		private static ProjectContext _projectContext;
 		private static ApplicationContainer _applicationContainer;
 		public static bool StartUpWithFirstOrNewVersionBehavior;
+
 #if PerProjectMutex
 		private static Mutex _oneInstancePerProjectMutex;
 #else
