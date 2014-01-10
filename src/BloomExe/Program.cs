@@ -21,7 +21,6 @@ namespace Bloom
 {
 	static class Program
 	{
-		// some useless change
 		//static HttpListener listener = new HttpListener();
 
 		/// <summary>
