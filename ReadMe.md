@@ -64,3 +64,5 @@ Now, Mozilla puts out a new version of XulRunner every 6 weeks at the time of th
 3) Bloom source code which is expecting that same version of GeckoFX.
 
 &nbsp;
+
+More text
